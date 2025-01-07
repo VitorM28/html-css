@@ -1,0 +1,16 @@
+@charset "UTF-8"
+body{
+    background-color: rgb(196, 48, 48);
+    font-size: arial, helvetica, sans-serif;
+}
+h1{
+    color: rgb(57, 222, 57);
+}
+h1#principal{
+    text-align: center;
+    background-color: red;
+}
+
+h2{
+    color: rgb(0, 255, 170);
+}
